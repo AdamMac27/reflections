@@ -1,0 +1,44 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It identified only the coding that was changed between the two files and
+    ignored anythign that was unaltered. This limited the amount of code to 
+    look at when trying to find any errors.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    By being able to see the progression of coding as it is build, it would
+    allow me to do file comparissons, scrap any recent files and go back to
+    a point in history where I wish to build from ignoring any recent changes. 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    The pros of manually choosing when to create a commit is that it follows a
+    logical purpose, when meaningful and related changes have been made. The con
+    is the possibly of user error in over committing, under committing, or
+    completely forgetting to commit.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    I think it has to do with other cersion control systems not having the ability
+    to link the files with one another to be able to apply multiple file saving.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    The log can show you messages of what the change was for each commit, the log 
+    --stat can show the counts and summary of total changes, and the diff can
+    show exactly what the changes were in between the two.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Knowing that there is a safety net file already saved incase something goes
+    wrong that can bring you back to when the code was still intact.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+   I want to use Git for version-control and for my Nanodegree courses.
