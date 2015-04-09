@@ -18,3 +18,11 @@ If a logical change affected more than one file, you'd want all files involed
 to be committed at the same time and that's where the staging area allows you
 to store these files until you are ready to commit all of them at once.
 
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+Branches are helpful when you are altering code that isn't uniform to every
+version, it is special cased to specific audiences. For example branches help
+when creating experimental or language versions where you still want the
+original version unchanged.
+
