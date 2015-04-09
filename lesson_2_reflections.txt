@@ -4,9 +4,17 @@ It creates a new .git file which stores all git history for the repository.
 This is necessary to add commits and track changes when running version-
 control.
 
-How is the staging area different from the working directory and the repository? What value do you think it offers?
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
 
-The staging area is a virtual area that you can store files before commiting them
-to the directory and repository. This allows you to temporarily store documents
-while working on other files before committing.
+The staging area is a virtual area that you can store files before commiting 
+them to the directory and repository. This allows you to temporarily store 
+documents while working on other files before committing.
+
+How can you use the staging area to make sure you have one commit per logical 
+change?
+
+If a logical change affected more than one file, you'd want all files involed
+to be committed at the same time and that's where the staging area allows you
+to store these files until you are ready to commit all of them at once.
 
