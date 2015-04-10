@@ -28,12 +28,18 @@ original version unchanged.
 
 How do the diagrams help you visualize the branch structure?
 
-Diagrams allow you to identify which commits can be reached on different branches
-and which can't. It is a nice process map of the whole project at hand.
+Diagrams allow you to identify which commits can be reached on different 
+branches and which can't. It is a nice process map of the whole project at hand.
 
-What is the result of merging two branches together? Why do we represent it in the
-diagram the way we do?
+What is the result of merging two branches together? Why do we represent it in 
+the diagram the way we do?
 
 The result of merging two branches together is one branch including all the 
 changes made between the two branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges 
+manually?
+
+Pros- Fast and easy
+Cons- Can't handle ambiguity
 
