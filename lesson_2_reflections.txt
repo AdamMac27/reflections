@@ -26,3 +26,8 @@ version, it is special cased to specific audiences. For example branches help
 when creating experimental or language versions where you still want the
 original version unchanged.
 
+How do the diagrams help you visualize the branch structure?
+
+Diagrams allow you to identify which commits can be reached on different branches
+and which can't. It is a nice process map of the whole project at hand.
+
